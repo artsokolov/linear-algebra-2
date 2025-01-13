@@ -5,7 +5,7 @@ header: >
 text: >
   Order the cards to get derivation of Singular Value
   Decomposition
-shuffle: true
+shuffle: false
 quiz:
   variants:
     - text: >
